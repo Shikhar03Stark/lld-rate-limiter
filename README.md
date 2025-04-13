@@ -118,16 +118,16 @@ This graph shows the number of incoming requests per second, helping to identify
 
 #### Fixed Window
 
-![FixedWindow](analysis\plots\timestamps_fixedwindow_sinewave.log.png)
+![FixedWindow](analysis/plots/timestamps_fixedwindow_sinewave.log.png)
 
 #### Sliding Window
 #### Sliding Window
 
-![SlidingWindow](analysis\plots\timestamps_slidingwindow_sinewave.log.png)
+![SlidingWindow](analysis/plots/timestamps_slidingwindow_sinewave.log.png)
 
 #### Leaky Bucket
 
-![LeakyBucket](analysis\plots\timestamps_leakybucket_sinewave.log.png)
+![LeakyBucket](analysis/plots/timestamps_leakybucket_sinewave.log.png)
 
 To generate these graphs, run the Jupyter Notebook `request_patterns.ipynb` in the `analysis` folder.
 
